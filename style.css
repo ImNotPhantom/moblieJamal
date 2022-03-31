@@ -50,11 +50,11 @@ body{
   border: none;
 }
 
-#Take:active{
+#noTake:active{
   background-color: rgb(68, 68, 68);
 }
 
-#noTake:active{
+#Take:active{
   background-color: rgb(68, 68, 68);
 }
 
