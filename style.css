@@ -30,7 +30,7 @@ body{
   color: #9c86dc
 }
 
-#Take{
+#noTake{
   font-family: FredokaOne;
   font-size: 16px;
   color: #a2e599;
@@ -40,7 +40,7 @@ body{
   border: none;
 }
 
-#noTake{
+#Take{
   font-family: FredokaOne;
   font-size: 16px;
   color: #f1818b;
