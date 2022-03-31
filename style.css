@@ -20,6 +20,7 @@ body{
 #pic{
   width: 175px;
   height: 250px;
+  border-radius: 12px;
 }
 
 #text{
@@ -38,6 +39,7 @@ body{
   padding: 18px 24px;
   margin-right: 6px;
   border: none;
+  border-radius: 14px;
 }
 
 #Take{
@@ -48,6 +50,7 @@ body{
   padding: 18px 24px;
   margin-left: 6px;
   border: none;
+  border-radius: 14px;
 }
 
 #noTake:active{
