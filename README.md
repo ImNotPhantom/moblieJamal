@@ -9,4 +9,4 @@
 - ✖️ Small buttons
 - ✖️ Bad loading
 
-## This website is being served at [jamalkake.tk](https://jamalkake.tk, "Jamal?")
+## This website is being served at [jamalkake.tk](https://jamalkake.tk "Jamal?")
