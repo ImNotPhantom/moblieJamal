@@ -1,4 +1,4 @@
-# Jamal is now one your phone!
+# Jamal is now on your phone!
 ### Now with advanced technology
 - ✔️ Dark mode!
 - ✔️ Easy to tap buttons!
