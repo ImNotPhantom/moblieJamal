@@ -1,8 +1,8 @@
 # Jamal is now one your phone!
 ### Now with advanced technology
-1. ✔️ Dark mode!
-2. ✔️ Easy to tap buttons!
-3. ✔️ And MORE!
+- ✔️ Dark mode!
+- ✔️ Easy to tap buttons!
+- ✔️ And MORE!
 
 ### This website does not have!
 - ✖️ Light mode
